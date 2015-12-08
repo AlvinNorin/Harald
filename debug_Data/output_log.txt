@@ -1,0 +1,45 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x8007000e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [ati2dvag.dll 6.17.10.1280]
+    Renderer: AMD Radeon HD 7660D
+    Vendor:   ATI
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+desktop: 1360x768 60Hz; virtual: 1360x1536 at 0,-768
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\users\alvin\My Documents\Harald's Adventure\debug_Data\Managed\System.dll (this message is harmless)
+Shader 'Nature/Terrain/Specular': fallback shader 'Nature/Terrain/Diffuse' not found
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 58 -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {127.0.0.1:8888}
+UNet Client Disconnect Error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.888500 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 253.
+Total: 1.397300 ms (FindLiveObjects: 0.022900 ms CreateObjectMapping: 0.033500 ms MarkObjects: 0.395900 ms  DeleteObjects: 0.942200 ms)
+
